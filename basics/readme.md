@@ -1,1 +1,1 @@
-This directory contains materials for Basics repository-exercises
+This is the git course repo
