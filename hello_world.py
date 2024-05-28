@@ -1,2 +1,2 @@
-print("Hello World!")
-print("Hello from intermediate branch")
+print("Hello world!")
+print("Hello from feature")
